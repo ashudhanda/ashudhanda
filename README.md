@@ -1,123 +1,151 @@
-<!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Ashu%20Dhanda&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=20" width="100%"/>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:010101,100:052e16&height=220&section=header&text=ASHU%20DHANDA&fontSize=68&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=%3E%20access_granted%20%3A%3A%20builder%20%2F%2F%20breaker%20%2F%2F%20learner&descAlignY=58&descSize=19" width="100%"/>
 
-<!-- TYPING ANIMATION -->
+<!-- MATRIX RAIN BANNER -->
+<img src="https://raw.githubusercontent.com/ashudhanda/ashudhanda/main/assets/matrix-rain.gif" width="100%" alt="matrix rain"/>
+
+<!-- TYPING -->
 <p align="center">
   <a href="https://github.com/ashudhanda">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ashu!+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;GSAP+%26+Glassmorphism+Lover+%E2%9C%A8;Open+Source+Contributor+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ff41&center=true&vCenter=true&width=680&lines=%24+whoami;%3E+ashu_dhanda+%3A%3A+builder+with+a+hacker+mindset;%24+cat+.%2Fmission.txt;%3E+build+systems.+break+limits.+ship+daily.;%24+.%2Fdeploy+--target%3Dproduction;%3E+status%3A+SHIPPING+%F0%9F%9A%80" alt="typing" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashudhanda&style=for-the-badge&color=8E2DE2" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/ACCESS-GRANTED-00ff41?style=for-the-badge&logo=key&logoColor=black"/>
+  <img src="https://komarev.com/ghpvc/?username=ashudhanda&style=for-the-badge&color=00ff41" alt="profile views"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## > whoami
 
-```javascript
-const ashu = {
-  name: "Ashu Dhanda",
-  role: "Frontend Developer",
-  education: "B.E. Student 🎓",
-  location: "India 🇮🇳",
-  currentFocus: ["Immersive UI", "3D Motion", "Open Source"],
-  loves: ["GSAP animations", "Glassmorphism UI", "Clean Code"],
-  funFact: "I turn ☕ into beautiful, scroll-driven websites!",
-};
+<img align="right" width="260" src="https://raw.githubusercontent.com/ashudhanda/ashudhanda/main/assets/scan.gif" alt="breach scan"/>
+
+```ansi
+[1;32mroot@ashu[0m:[1;36m~[0m$ whoami
+ashu_dhanda
+[1;32mroot@ashu[0m:[1;36m~[0m$ cat ./profile.json
+{
+  "role":      "Developer",
+  "base":      "India",
+  "education": "B.E. CSE",
+  "arsenal":   ["Python", "JavaScript", "React", "Node.js", "Java", "SQL"],
+  "shipping":  ["moonOS", "WhatsApp AI bot", "ClipForge", "ZeroPing pipeline"],
+  "motto":     "build systems. break limits. ship daily."
+}
+[1;32mroot@ashu[0m:[1;36m~[0m$ sudo ./hire-me --reason="I ship"
+[2m[sudo] access granted — let's build something real ↓[0m
 ```
 
-- 🔭 I build **immersive, animated web experiences** with HTML, CSS, JS & GSAP
-- 🌱 Currently diving deeper into **open source contributions** — 9+ PRs and counting!
-- 💫 Ask me about **frontend magic** — glassmorphism, scroll animations, 3D motion
-- ⚡ Fun fact: My portfolio literally *moves* — check it out below 👇
+<br clear="both"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## > arsenal
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Responsive_Design-8E2DE2?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
 
-## 🎯 Featured Projects
-
-| 🚀 Project | 📝 Description | 🔧 Tech |
-|---|---|---|
-| [**🌐 ashuportfolio**](https://github.com/ashudhanda/ashuportfolio) | 📜 Immersive scroll-driven portfolio with 3D motion & glassmorphism UI | HTML, CSS, JS, GSAP |
-| [**🧭 iksfinal**](https://github.com/ashudhanda/iksfinal) | Glassmorphism MCQ quiz app — 155 questions on Indian Knowledge System, light/dark mode, sound FX | HTML, CSS, JS |
-| [**🌿 esquiz**](https://github.com/ashudhanda/esquiz) | Environmental Science quiz — 148 questions, timer, shuffle mode & score reports | HTML, CSS, JS |
-| [**💱 currency-converter**](https://github.com/ashudhanda/currency-converter) | Simple & clean currency converter website | HTML, CSS, JS |
-| [**📄 resumepro**](https://github.com/ashudhanda/resumepro) | Resume builder web app | HTML, CSS |
-| [**💎 aggarwaljewellers**](https://github.com/ashudhanda/aggarwaljewellers) | Jewellery business website | HTML, CSS |
-
----
-
-## 📊 GitHub Stats
+## > active_operations
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashudhanda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8E2DE2&count_private=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashudhanda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA" alt="Top Languages"/>
+  <img src="https://raw.githubusercontent.com/ashudhanda/ashudhanda/main/assets/ops-decrypt.gif" alt="decrypting mission files" width="95%"/>
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashudhanda&theme=tokyonight&hide_border=true&background=0d1117&ring=8E2DE2&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak"/>
+  <a href="https://github.com/ashudhanda/webos">moonOS</a> ·
+  <a href="https://github.com/ashudhanda/clipforge1">ClipForge</a> ·
+  <a href="https://github.com/ashudhanda/cloud-typer-bot">cloud-typer-bot</a> ·
+  <a href="https://github.com/ashudhanda/ai-agents-mcp-playground">ai-agents-mcp-playground</a> ·
+  <a href="https://github.com/ashudhanda/sweep-cleaner">sweep-cleaner</a> ·
+  <a href="https://github.com/ashudhanda/ashuportfolio">ashuportfolio</a> ·
+  <a href="https://ashudhanda.github.io/webos/">live demo</a>
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
+## > system_metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashudhanda&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+  <img src="https://raw.githubusercontent.com/ashudhanda/ashudhanda/main/assets/metrics.gif" alt="animated system metrics" width="640"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## > system_stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashudhanda&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8E2DE2&point=ffffff" alt="Activity Graph" width="95%"/>
+  <img src="https://raw.githubusercontent.com/ashudhanda/ashudhanda/main/assets/lang.png" alt="language matrix" width="95%"/>
 </p>
 
 ---
 
-## 🐍 Watch the Snake Eat My Contributions
+## > contribution_city
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashudhanda/ashudhanda/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%"/>
+  <img src="https://raw.githubusercontent.com/ashudhanda/ashudhanda/main/assets/contrib-3d.png" alt="3d contribution city" width="95%"/>
 </p>
 
 ---
 
-## 💬 Dev Quote of the Day
+## > activity_rhythm
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <img src="https://raw.githubusercontent.com/ashudhanda/ashudhanda/main/assets/rhythm.png" alt="activity rhythm" width="95%"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## > signal_radar
 
 <p align="center">
-  <a href="https://github.com/ashudhanda"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://raw.githubusercontent.com/ashudhanda/ashudhanda/main/assets/radar.gif" alt="signal radar" width="560"/>
+</p>
+
+---
+
+## > snake_protocol
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashudhanda/ashudhanda/output/github-contribution-grid-snake-dark.svg" alt="snake" width="95%"/>
+</p>
+
+---
+
+## > fun_zone
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="joke"/>
+</p>
+
+---
+
+## > secure_channel
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashudhanda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ashudhanda33@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <i>💀 "Talk is cheap. Show me the code." — Linus Torvalds</i>
 </p>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%"/>
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,100:010101&height=130&section=footer&text=%3E%20session_secured&fontSize=26&fontColor=00ff41" width="100%"/>
