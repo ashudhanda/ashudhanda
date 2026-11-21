@@ -1,151 +1,68 @@
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:010101,100:052e16&height=220&section=header&text=ASHU%20DHANDA&fontSize=68&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=%3E%20access_granted%20%3A%3A%20builder%20%2F%2F%20breaker%20%2F%2F%20learner&descAlignY=58&descSize=19" width="100%"/>
+<!-- Animated Waving Header (Capsule Render) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:18181b,100:38bdf8&height=220&section=header&text=Ashu%20Dhanda&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cloud%20%26%20DevOps%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Open%20Source&descAlignY=62&descSize=16" width="100%" />
+</div>
 
-<!-- MATRIX RAIN BANNER -->
-<img src="https://raw.githubusercontent.com/ashudhanda/ashudhanda/main/assets/matrix-rain.gif" width="100%" alt="matrix rain"/>
-
-<!-- TYPING -->
-<p align="center">
-  <a href="https://github.com/ashudhanda">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ff41&center=true&vCenter=true&width=680&lines=%24+whoami;%3E+ashu_dhanda+%3A%3A+builder+with+a+hacker+mindset;%24+cat+.%2Fmission.txt;%3E+build+systems.+break+limits.+ship+daily.;%24+.%2Fdeploy+--target%3Dproduction;%3E+status%3A+SHIPPING+%F0%9F%9A%80" alt="typing" />
+<!-- Animated Typing Headline with Google Font (Space Grotesk) -->
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com/demo/">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+deadcode-map+%E2%80%94+find+dead+code%2C+prove+it%2C+map+it;Shipping+AI+Tools+%26+WhatsApp+Automation;Learning+Cloud+%26+DevOps+%E2%80%94+job+before+2028;Founder+%40+aditiweb.tech" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ACCESS-GRANTED-00ff41?style=for-the-badge&logo=key&logoColor=black"/>
-  <img src="https://komarev.com/ghpvc/?username=ashudhanda&style=for-the-badge&color=00ff41" alt="profile views"/>
-</p>
+<br/>
 
----
+<!-- Clean Action Links -->
+<div align="center">
+  <a href="https://aditiweb.tech">
+    <img src="https://img.shields.io/badge/Studio-aditiweb.tech-09090b?style=for-the-badge&logo=vercel&logoColor=38bdf8" />
+  </a>
+  <a href="https://ashudhanda.github.io/deadcode-map/">
+    <img src="https://img.shields.io/badge/Live_Demo-deadcode--map-09090b?style=for-the-badge&logo=googlechrome&logoColor=ffffff" />
+  </a>
+  <a href="https://linkedin.com/in/ashudhanda">
+    <img src="https://img.shields.io/badge/LinkedIn-ashudhanda-09090b?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
+  </a>
+</div>
 
-## > whoami
+<br/>
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/ashudhanda/ashudhanda/main/assets/scan.gif" alt="breach scan"/>
+### Featured Projects
 
-```ansi
-[1;32mroot@ashu[0m:[1;36m~[0m$ whoami
-ashu_dhanda
-[1;32mroot@ashu[0m:[1;36m~[0m$ cat ./profile.json
-{
-  "role":      "Developer",
-  "base":      "India",
-  "education": "B.E. CSE",
-  "arsenal":   ["Python", "JavaScript", "React", "Node.js", "Java", "SQL"],
-  "shipping":  ["moonOS", "WhatsApp AI bot", "ClipForge", "ZeroPing pipeline"],
-  "motto":     "build systems. break limits. ship daily."
-}
-[1;32mroot@ashu[0m:[1;36m~[0m$ sudo ./hire-me --reason="I ship"
-[2m[sudo] access granted — let's build something real ↓[0m
-```
+| Project | Overview | Links |
+| :--- | :--- | :--- |
+| **deadcode-map** | Find dead code, prove it is dead, and see it on a map. JS/TS + Python, with a web checker | [Live](https://ashudhanda.github.io/deadcode-map/) · [Source](https://github.com/ashudhanda/deadcode-map) |
+| **WebOS** | Browser-based desktop environment with interactive windows & custom UI | [Live](https://ashudhanda.github.io/webos/) · [Source](https://github.com/ashudhanda/webos) |
+| **aditiweb.tech** | Web studio focused on modern dark interfaces | [Visit](https://aditiweb.tech) |
+| **School WhatsApp Bot** | Multi-tenant school ERP over the WhatsApp Business API | [Source](https://github.com/ashudhanda/school-whatsapp-bot) |
 
-<br clear="both"/>
+<br/>
 
----
+### Tech Stack
 
-## > arsenal
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,py,java,mysql,linux,git,vscode,html,css&theme=dark&perline=7" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+<br/>
 
----
+### Live GitHub Activity
 
-## > active_operations
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ashudhanda&theme=tokyonight&hide_border=true&background=09090b&ring=38bdf8&fire=38bdf8&currStreakLabel=e4e4e7" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashudhanda&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=38bdf8&text_color=e4e4e7" height="165" />
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashudhanda/ashudhanda/main/assets/ops-decrypt.gif" alt="decrypting mission files" width="95%"/>
-</p>
-<p align="center">
-  <a href="https://github.com/ashudhanda/webos">moonOS</a> ·
-  <a href="https://github.com/ashudhanda/clipforge1">ClipForge</a> ·
-  <a href="https://github.com/ashudhanda/cloud-typer-bot">cloud-typer-bot</a> ·
-  <a href="https://github.com/ashudhanda/ai-agents-mcp-playground">ai-agents-mcp-playground</a> ·
-  <a href="https://github.com/ashudhanda/sweep-cleaner">sweep-cleaner</a> ·
-  <a href="https://github.com/ashudhanda/ashuportfolio">ashuportfolio</a> ·
-  <a href="https://ashudhanda.github.io/webos/">live demo</a>
-</p>
+<br/>
 
----
-## > system_metrics
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashudhanda&theme=react-dark&bg_color=09090b&color=a1a1aa&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashudhanda/ashudhanda/main/assets/metrics.gif" alt="animated system metrics" width="640"/>
-</p>
-
----
-
-## > system_stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashudhanda/ashudhanda/main/assets/lang.png" alt="language matrix" width="95%"/>
-</p>
-
----
-
-## > contribution_city
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashudhanda/ashudhanda/main/assets/contrib-3d.png" alt="3d contribution city" width="95%"/>
-</p>
-
----
-
-## > activity_rhythm
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashudhanda/ashudhanda/main/assets/rhythm.png" alt="activity rhythm" width="95%"/>
-</p>
-
----
-
-## > signal_radar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashudhanda/ashudhanda/main/assets/radar.gif" alt="signal radar" width="560"/>
-</p>
-
----
-
-## > snake_protocol
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashudhanda/ashudhanda/output/github-contribution-grid-snake-dark.svg" alt="snake" width="95%"/>
-</p>
-
----
-
-## > fun_zone
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="joke"/>
-</p>
-
----
-
-## > secure_channel
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashudhanda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ashudhanda33@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <i>💀 "Talk is cheap. Show me the code." — Linus Torvalds</i>
-</p>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,100:010101&height=130&section=footer&text=%3E%20session_secured&fontSize=26&fontColor=00ff41" width="100%"/>
+<!-- Animated Waving Footer (Capsule Render) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:18181b,100:09090b&height=110&section=footer" width="100%" />
+</div>
