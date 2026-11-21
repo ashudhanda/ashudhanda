@@ -42,9 +42,6 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.E. CSE, 2nd year** — Chitkara University
-- 📍 **Panchkula, Haryana, India**
-- ☁️ **Cloud & DevOps** — on the road to a job before 2028
 - 🚀 **Founder** — [aditiweb.tech](https://aditiweb.tech)
 - 🔨 **Building** — deadcode-map, WebOS, School WhatsApp Bot, ClipForge
 - 💡 **Belief** — build systems, break limits, ship daily
